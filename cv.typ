@@ -42,10 +42,10 @@
   institution: "University of applied sciences Munich",
   location: "Munich, Germany",
   dates: dates-helper(start-date: "2024", end-date: "present"),
-  degree: "Master of Science, Computer Science (Focus: Embedded Computing), Current Grade: 1.4",
+  degree: "Master of Science, Computer Science (Focus: Embedded Computing), Current Grade: 1.2",
 )
 - *Simulated KUKA KR6 robot solving a puzzle*. Part of the robot and visualization team, implementing interpolation, kinematics and visualization of the robot. System running on ROS2, visualization on OpenGL + Qt based Coin3D. (C++, Python)  
-- *1st place VDI Autonomous Driving Challenge.* Autonomous driving of a model car using computer vision (1:40). Part of the trajectory team. (C++, ROS2)
+- *1st place VDI Autonomous Driving Challenge.* Autonomous driving of a model car using computer vision (1:40). Part of the trajectory building / computer vision team. (C++, ROS2)
 
 #edu(
   institution: "University of applied sciences Munich",
@@ -53,7 +53,7 @@
   dates: dates-helper(start-date: "2020", end-date: "2024"),
   degree: "Bachelor of Science, Business Informatics, Grade: 1.4",
 )
-- Bachelor's Thesis: Identification of research gaps in the state of science and practice in the detection of data anomalies
+- Bachelor's Thesis: Identification of research gaps in the state of science and practice in the detection of data anomalies.
 
 == Work Experience
 
@@ -65,7 +65,7 @@
 )
 - *Streaming Scraping of Property Listings.* High concurrency streaming, real-time streaming processing using Pyspark on Databricks. Daily processing of over 100k listings. (Python, Pyspark, Typescript)
 - *Data Platform.* Data processing on databricks with pyspark. Large scale geometric processing using h3. (Python, Pyspark)
-- *Vector Tilesets.* Generation of Germany-Wide Vector Tilesets, creating diverse maps like general location quality and point of interest based maps. (Go, Typescript)
+- *Vector Tilesets.* Generation of Germany-Wide Vector Tilesets, creating diverse maps like general location quality and points of interest based maps. (Go, Typescript)
 
 #work(
   title: "Full Stack Engineer",
@@ -90,10 +90,10 @@
 #project(
   name: "Home IoT Setup.",
 )
-- *IoT-Hub.* Go based IoT-Hub with basic timeseries data visualization. (Go)
-- *Air Quality Sensor.* Air quality sensor with a OLED display, built on a Raspberry Pico W with freeRTOS. TCP Connection to IoT-Hub for Data Ingestion, UDP for remote logging. (C, freeRTOS, I2C)
 - *Plant Irrigation Sensor* ESP32-C3 based plant irrigation sensor. OTA support, remote logging, MQTT data transfer. (C, MQTT, ESP-IDF)
+- *Air Quality Sensor.* Air quality sensor with an OLED display, built on a Raspberry Pico W with freeRTOS. TCP Connection to IoT-Hub for Data Ingestion, UDP for remote logging. (C, freeRTOS, I2C)
+- *IoT-Hub.* Go based IoT-Hub with basic timeseries data visualization. (Go)
 
 == Skills
 - *Programming Languages*: Python, C, C++, Go, Typescript 
-- *Technologies/Keywords*: freeRTOS, RIOT OS, Zephyr, ESP-IDF, Docker, Terraform, MQTT, I2C, SPI, AWS, Azure, K8s, Pyspark, Databricks, React
+- *Technologies/Keywords*: freeRTOS, RIOT OS, Zephyr, ESP-IDF, Docker, Linux, Neovim, Terraform, MQTT, I2C, SPI, AWS, Azure, K8s, Pyspark, Databricks, React
